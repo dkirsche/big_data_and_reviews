@@ -1,0 +1,9 @@
+Dear {ALIAS},<br>
+Congratulations you have been chosen to write a review for {my_company}. If you decide to accept our offer we will send you the bottle of wine along with an email of how to submit the review. You will have 30 days from the time the bottle has been shipped to write a review. So if you do decide to accept our invitation please make sure that you will be available to write the review. Below is the wine that we would like you to review and the link to accept/decline the offer. 
+<BR><BR>
+<a href='http://{url}/cgi-bin/productinfo.asp?wineid={WINEID}'>{WINE}</a>
+<br><br>
+<a href='http://{url}/cgi-bin/accountviewa/paidreview_confirm.php?offercode={OFFERCODE}'>Click here to accept/decline offer.</a>
+<br><br>
+We value your participation in the {my_company} community.<br>
+The {my_company} Team
